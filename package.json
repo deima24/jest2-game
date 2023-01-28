@@ -1,0 +1,25 @@
+{
+  "name": "jest2-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deima24/jest2-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deima24/jest2-game/issues"
+  },
+  "homepage": "https://github.com/deima24/jest2-game#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.4.1"
+  }
+}
